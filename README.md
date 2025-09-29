@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Denis and I'm a passionate Data Scientist, from Belarus.</p>
+<p align="left">My name is Denis and I'm a passionate Data Scientist</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning scikit-learn</p>
+<p align="left">✨ Creating bugs since 2020
 
 ###
 
